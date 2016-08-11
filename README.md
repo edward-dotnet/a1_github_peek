@@ -1,4 +1,6 @@
 GitHub Peek
+https://github.com/edward-dotnet/a1_github_peek
+
 
 Quick view of a github account's repositories and displays the readme file.
 
